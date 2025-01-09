@@ -163,3 +163,134 @@ nav li a{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     background: rgb(255, 255, 255);
 }
+
+/* ==================================================================Resume Style starts */
+
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+hr{
+    width: 558px;
+    /* Dark 05 */
+   border: 1px solid rgb(209, 209, 209);
+}
+
+.experience{
+    /* background-color: antiquewhite; */
+    width: 511px;
+        height: 175px;
+        left: 230px;
+        right: 859px;
+        top: 2604px;
+        bottom: 1477px;
+    }
+    
+    
+    .column-title{
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+}
+
+.experience-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+}
+
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+}
+
+.experience-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+}
+.download-cv-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-cv{
+        width: 200px;
+        height: 64px;
+        border-radius: 5px;
+        color: white;
+        background: rgb(253, 110, 10);
+        font-size: 20px;
+        font-weight: 700;
+        border: none;
+        
+    }
+    /* ==================================================================Footer Style starts */
+
+    footer{
+        width: 100%;
+        background: rgb(255, 248, 243);
+        display: flex;
+        padding: 130px 376px;
+
+    }
+
+    .footer-content{
+        width: 562px;
+
+    }
+
+    .img-div img{
+        padding-right: 20px;
+    }
+
+    input[type=text], input[type=email]{
+        border-radius: 5px;
+        background: rgb(255, 255, 255);
+        width: 461px;
+        border: none;
+        padding: 20px;
+        font-family: Open Sans;
+        font-size: 16px;
+    }
+    .input-form-break{
+        margin-bottom: 10px;
+    }
+
+    textarea{
+        border-radius: 5px;
+        background: rgb(255, 255, 255);
+        width: 499px;
+        border-radius: 5px;
+        border: none;
+        color: rgb(117, 117, 117);
+        font-family: Open Sans;
+        font-size: 16px;
+    }
+
+    .submit-btn{
+        /* position: absolute; */
+        width: 150px;
+        height: 64px;
+        /* left: 909px;
+        right: -909px;
+        top: 4062px;
+        bottom: -4062px; */
+        border-radius: 5px;
+        background: rgb(253, 110, 10);
+        color: rgb(255, 255, 255);
+        font-family: Open Sans;
+        font-size: 20px;
+        font-weight: 700;
+        border: none;
+        margin-top: 20px;
+
+    }
+
+
+    
+    
+    
+    
+    
